@@ -7,6 +7,7 @@
     <groupId>org.example</groupId>
     <artifactId>CS2340</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <packaging>war</packaging>
 
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
